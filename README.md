@@ -30,7 +30,3 @@
 - Scikit-learn  
 - LightGBM  
 - Matplotlib, Seaborn  
-
----
-
-## 📂 Структура проекта
